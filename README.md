@@ -1,0 +1,2 @@
+# DS1302-ATMEGA16-Proteus
+DS1302 ATMEGA16 - Proteus
